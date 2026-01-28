@@ -5,13 +5,13 @@ a small macropad for hack club's blueprint. it has a screen for a keys-per-secon
 # Pictures
 
 ## Case (assembled, no parts because KiCad can't find them)
-![case](/README images/assembled_case_no_parts_sorry.png)
+![case](README images/assembled_case_no_parts_sorry.png)
 
 ## Schematic
-![schematic](/README images/schematic.png)
+![schematic](README images/schematic.png)
 
 ## PCB
-![PCB](/README images/pcb.png)
+![PCB](README images/pcb.png)
 
 ## Bill of Materials:
 - 1x Seeed Studio XIAO RP2040
